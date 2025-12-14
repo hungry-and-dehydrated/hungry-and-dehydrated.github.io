@@ -1,0 +1,56 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-srgb:0.00000,0.47843,1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "glass" : false,
+          "image-name" : "ero1nq.png",
+          "name" : "ero1nq",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              241.2109375,
+              214.390625
+            ]
+          }
+        },
+        {
+          "glass" : false,
+          "image-name" : "iOS 26 Icon 1024 x 1026.png",
+          "name" : "iOS 26 Icon 1024 x 1026",
+          "position" : {
+            "scale" : 1.2,
+            "translation-in-points" : [
+              -30.4140625,
+              52.265625
+            ]
+          }
+        }
+      ],
+      "position" : {
+        "scale" : 1,
+        "translation-in-points" : [
+          -1.515625,
+          -2.265625
+        ]
+      },
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
