@@ -1,7 +1,7 @@
 {
-  "name": "Drill Drop — Daily Movement Protocols",
+  "name": "Drill Drop — Exercise Reminder App",
   "short_name": "Drill Drop",
-  "description": "Pick a daily protocol. Get nudged when you actually have time. 100% offline. Free on iOS and Android.",
+  "description": "Official Drill Drop app. Short exercise reminders that fit your day. 100% offline. Free on iOS and Android.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -12,18 +12,36 @@
   "categories": ["health", "fitness", "lifestyle", "productivity"],
   "icons": [
     {
+      "src": "/favicon-48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
       "src": "/Icon1024x1028.svg",
       "type": "image/svg+xml",
       "sizes": "any",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ],
   "screenshots": [
     {
-      "src": "/LandingPreviewAppimage.png",
-      "type": "image/png",
+      "src": "/og-image.jpg",
+      "type": "image/jpeg",
       "form_factor": "wide",
-      "label": "Drill Drop app preview"
+      "label": "Drill Drop exercise reminder app preview"
     }
   ],
   "related_applications": [

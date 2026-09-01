@@ -1,11 +1,12 @@
 # https://www.robotstxt.org/robotstxt.html
 
-# Default: allow all well-behaved crawlers
 User-agent: *
 Allow: /
 
+# Language query strings are not separate pages. Canonical is https://drilldrop.fit/
+# They stay crawlable so Google can see noindex + canonical and drop the duplicates.
+
 # Explicitly welcome major AI agents and answer engines.
-# Drill Drop has nothing to hide — all content is public marketing.
 User-agent: GPTBot
 Allow: /
 
