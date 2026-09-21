@@ -1,9 +1,201 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://drilldrop.fit/</loc>
-    <lastmod>2026-09-01</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/zh-CN/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/pt-BR/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://drilldrop.fit/tr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://drilldrop.fit/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://drilldrop.fit/fr/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://drilldrop.fit/zh-CN/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://drilldrop.fit/pt-BR/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://drilldrop.fit/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://drilldrop.fit/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://drilldrop.fit/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://drilldrop.fit/ko/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://drilldrop.fit/es/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://drilldrop.fit/id/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://drilldrop.fit/tr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://drilldrop.fit/" />
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

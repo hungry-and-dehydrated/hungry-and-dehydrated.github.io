@@ -3,8 +3,8 @@
 User-agent: *
 Allow: /
 
-# Language query strings are not separate pages. Canonical is https://drilldrop.fit/
-# They stay crawlable so Google can see noindex + canonical and drop the duplicates.
+# Locale paths (`/fr/`, `/de/`, `/zh-CN/`, …) are indexable alternate pages.
+# Legacy `?lng=` query URLs redirect to those paths.
 
 # Explicitly welcome major AI agents and answer engines.
 User-agent: GPTBot
